@@ -1,0 +1,11 @@
+name: FreePork
+
+author: awesomehook
+
+main: FreePork
+
+commands:
+    freepork:
+        description: Pork shall rain from the sky!
+
+version: 1.0
